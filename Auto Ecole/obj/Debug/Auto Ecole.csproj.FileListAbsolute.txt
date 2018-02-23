@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\Auto Ecole\Auto Ecole\Auto Ecole\bin\Debug\Auto Ecole.exe.config
+C:\Users\hp\Desktop\Auto Ecole\Auto Ecole\Auto Ecole\bin\Debug\Auto Ecole.exe
+C:\Users\hp\Desktop\Auto Ecole\Auto Ecole\Auto Ecole\bin\Debug\Auto Ecole.pdb
+C:\Users\hp\Desktop\Auto Ecole\Auto Ecole\Auto Ecole\obj\Debug\Auto Ecole.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Auto Ecole\Auto Ecole\Auto Ecole\obj\Debug\Auto_Ecole.Form1.resources
+C:\Users\hp\Desktop\Auto Ecole\Auto Ecole\Auto Ecole\obj\Debug\Auto_Ecole.Properties.Resources.resources
+C:\Users\hp\Desktop\Auto Ecole\Auto Ecole\Auto Ecole\obj\Debug\Auto Ecole.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Auto Ecole\Auto Ecole\Auto Ecole\obj\Debug\Auto Ecole.exe
+C:\Users\hp\Desktop\Auto Ecole\Auto Ecole\Auto Ecole\obj\Debug\Auto Ecole.pdb
+C:\Users\hp\Desktop\Auto Ecole\Auto Ecole\Auto Ecole\obj\Debug\Auto_Ecole.client.resources
